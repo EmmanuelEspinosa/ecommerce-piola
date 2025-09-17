@@ -1,0 +1,26 @@
+Control de versiones
+1.2.4
+1:programa
+2:actualizacion
+4:paquete de actualizacion
+
+versiones(1.0.0)=commit(s7c3ns4)
+
+Comandos:
+ 1)git init(inicializar)
+ 2)git remote add origin {link}(enlazar)
+3)git add.
+4)git commit-m "mensaje de commit"
+5)git branch {nombre rama}(creas una rama)
+6)git push origin {donde lo queres subir}(subir a la nube) 
+7)git checkout {nombre de rama}(para que los cambios se suban en la rama)
+8)git merge {nombre de rama}(para mezclar la rama con el main )
+  
+
+
+
+estandares de commit
+feat:nueva caracteristica de una clase/funcion
+fix:reparas algo
+style:nuevo front de algo
+merge:que mezclaste
